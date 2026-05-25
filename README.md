@@ -45,9 +45,9 @@ This process will generate a .csv file containing the point cloud data in your c
 Below are the high-fidelity orbital outputs achieved through this mathematical simulation and volumetric render pipeline:  
 
 $3d_{z^2}$ Orbital(Dumbbell and Torus Ring) 
-![3dz2 Orbital Render](3dz2.png)
+![3dz2 Orbital Render](results/3dz2.png)
 
 $3d_{xy}$ Orbital(Four-Leaf Clover Structure)
-![3dz2 Orbital Render](3dxy.png)
+![3dz2 Orbital Render](results/3dxy.png)
 
 
