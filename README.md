@@ -17,13 +17,13 @@ In quantum mechanics, we cannot pinpoint an electron's exact location; we can on
 ### 1. Compiling and Running the C Code (Linux)
 Open your terminal and compile the code using the standard C compiler (GCC). The `-O3` flag ensures maximum CPU optimization, allowing 1 million points to be calculated in mere seconds:
 
-```bash```  
-```gcc simulasyon.c -o simulasyon -lm -O3 ```
+ 
+```gcc simulation.c -o simulasyon -lm -O3 ```
 
 Next, execute the simulation:
 
-``` bash ``` 
-``` ./simulasyon```   
+
+``` ./simulation```   
 
 
 This process will generate a .csv file containing the point cloud data in your current directory.
